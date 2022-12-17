@@ -1,0 +1,14 @@
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\bin\Debug\Gordon_PCHR.exe.config
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\bin\Debug\Gordon_PCHR.exe
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\bin\Debug\Gordon_PCHR.pdb
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.csprojAssemblyReference.cache
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.frmLogin.resources
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.Properties.Resources.resources
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.csproj.GenerateResource.cache
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.csproj.CoreCompileInputs.cache
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.exe
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.pdb
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.Register.resources
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\bin\Debug\pchr42563.mdf
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\bin\Debug\pchr42563_log.ldf
+C:\Users\Tanner\source\repos\Gordon_PCHR\Gordon_PCHR\obj\Debug\Gordon_PCHR.MainForm.resources
